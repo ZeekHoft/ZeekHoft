@@ -51,13 +51,12 @@
 - 🕘 **[Country Clock](https://github.com/ZeekHoft/Country-Clock)** - Have the time on any country built with flutter
 <!-- APPS:END -->
 
-- 
 <!-- GAMES:START -->
 - 💵 **[Loan Legacy](https://github.com/ZeekHoft/MoneyFrenzy)** - A game where banking system is fun
 - ⚔️ **[Byte-Blade](https://github.com/ZeekHoft/Byte-Blade)** - AI vision give you a digital sword
 - 💀 **[Aswang Busters](https://github.com/ZeekHoft/Nov_DevCon)** - Destroy all the aswangs with your trustry gun
 - 🦖 **[Dino Game](https://github.com/ZeekHoft/Code-Wars-Proj)** - Be the dinosaur.
-- <!-- GAMES:END -->
+<!-- GAMES:END -->
 
 <!-- SOFTWARE:START -->
 - 👀 **[Vision Detect](https://github.com/ZeekHoft/GDSC-project)** - To help vision impairment
