@@ -63,7 +63,7 @@
 
 
 ### Philosophy
-"Create something out of nothing" - The definition of coding, everything great always starts out as a blank canvas and the only way to fill that canvas with something great is to start. The same prespective can be applied to ourselved.
+> "Create something out of nothing" - The definition of coding, everything great always starts out as a blank canvas and the only way to fill that canvas with something great is to start. The same prespective can be applied to ourselved.
 
 
 
