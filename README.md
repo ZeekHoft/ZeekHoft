@@ -30,6 +30,38 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+
+## Current project
+[Dappli 'On hold']()
+
+## Finished project
+[Portfolio](https://vince-work-portfolio.vercel.app)
+[Lead Gen Website](https://lead-gen-website-gamma.vercel.app)
+[Deception Detector](https://the-deception-detector.vercel.app/home)
+
+[CS Compass](https://github.com/ZeekHoft/Student-Compas)
+[Country Clock](https://github.com/ZeekHoft/Country-Clock)
+
+[Loan Legacy](https://github.com/ZeekHoft/MoneyFrenzy)
+[Byte-Blade](https://github.com/ZeekHoft/Byte-Blade)
+[Aswang Busters](https://github.com/ZeekHoft/Nov_DevCon)
+
+[Vision Detect](https://github.com/ZeekHoft/GDSC-project)
+[Valentine Compatibility](https://github.com/ZeekHoft/Nov_DevCon)
+
+
+
+
+
+
+
+
+
+
+
+
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
