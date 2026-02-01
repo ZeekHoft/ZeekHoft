@@ -34,22 +34,23 @@
 
 
 ## Current project
-[Dappli 'On hold']()
+- 🥗 **[Dappli 'On hold'](https://github.com/ZeekHoft/Fillipino-Food-App/)** 
 
 ## Finished project
-[Portfolio](https://vince-work-portfolio.vercel.app)
-[Lead Gen Website](https://lead-gen-website-gamma.vercel.app)
-[Deception Detector](https://the-deception-detector.vercel.app/home)
+- 🙋 **[Portfolio](https://vince-work-portfolio.vercel.app)**
+- 📈 **[Lead Gen Website](https://lead-gen-website-gamma.vercel.app)**
+- 🙈 **[Deception Detector](https://the-deception-detector.vercel.app/home)**
 
-[CS Compass](https://github.com/ZeekHoft/Student-Compas)
-[Country Clock](https://github.com/ZeekHoft/Country-Clock)
+- 🧭 **[CS Compass](https://github.com/ZeekHoft/Student-Compas)**
+- 🕘 **[Country Clock](https://github.com/ZeekHoft/Country-Clock)**
 
-[Loan Legacy](https://github.com/ZeekHoft/MoneyFrenzy)
-[Byte-Blade](https://github.com/ZeekHoft/Byte-Blade)
-[Aswang Busters](https://github.com/ZeekHoft/Nov_DevCon)
+- 💵 **[Loan Legacy](https://github.com/ZeekHoft/MoneyFrenzy)**
+- ⚔️ **[Byte-Blade](https://github.com/ZeekHoft/Byte-Blade)**
+- 💀 **[Aswang Busters](https://github.com/ZeekHoft/Nov_DevCon)**
+- 🦖 **[Dino Game](https://github.com/ZeekHoft/Code-Wars-Proj)**
 
-[Vision Detect](https://github.com/ZeekHoft/GDSC-project)
-[Valentine Compatibility](https://github.com/ZeekHoft/Nov_DevCon)
+- 👀 **[Vision Detect](https://github.com/ZeekHoft/GDSC-project)**
+- 💋 **[Valentine Compatibility](https://github.com/ZeekHoft/Nov_DevCon)**
 
 
 
