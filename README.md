@@ -57,12 +57,13 @@
 
 
 ### Connect
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)(https://www.facebook.com/francisvince.jaca/)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/francis-vince-jaca-359532305/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/francisvince.jaca/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-vince-jaca-359532305/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ZeekHoft)
 
 
-
-
+### Philosophy
+"Create something out of nothing" - The definition of coding, everything great always starts out as a blank canvas and the only way to fill that canvas with something great is to start. The same prespective can be applied to ourselved.
 
 
 
