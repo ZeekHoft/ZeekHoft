@@ -40,20 +40,29 @@
 - 🥗 **[Dappli 'On hold'](https://github.com/ZeekHoft/Fillipino-Food-App/)** 
 
 ## Finished project
+<!-- WEBSITES:START -->
 - 🙋 **[Portfolio](https://vince-work-portfolio.vercel.app)** - Cooking has never been made easier, AI recipe recommendation
 - 📈 **[Lead Gen Website](https://lead-gen-website-gamma.vercel.app)** - Promotional website for business
 - 🙈 **[Deception Detector](https://the-deception-detector.vercel.app/home)** - Unmask fake news online
+<!-- WEBSITES:END -->
 
+<!-- APPS:START -->
 - 🧭 **[CS Compass](https://github.com/ZeekHoft/Student-Compas)** - Navigating our school as a freshie
 - 🕘 **[Country Clock](https://github.com/ZeekHoft/Country-Clock)** - Have the time on any country built with flutter
+<!-- APPS:END -->
 
+- 
+<!-- GAMES:START -->
 - 💵 **[Loan Legacy](https://github.com/ZeekHoft/MoneyFrenzy)** - A game where banking system is fun
 - ⚔️ **[Byte-Blade](https://github.com/ZeekHoft/Byte-Blade)** - AI vision give you a digital sword
 - 💀 **[Aswang Busters](https://github.com/ZeekHoft/Nov_DevCon)** - Destroy all the aswangs with your trustry gun
 - 🦖 **[Dino Game](https://github.com/ZeekHoft/Code-Wars-Proj)** - Be the dinosaur.
+- <!-- GAMES:END -->
 
+<!-- SOFTWARE:START -->
 - 👀 **[Vision Detect](https://github.com/ZeekHoft/GDSC-project)** - To help vision impairment
-- 💋 **[Valentine Compatibility](https://github.com/ZeekHoft/Nov_DevCon)** - See the love to fee the love
+- 💋 **[Valentine Compatibility](https://github.com/ZeekHoft/Nov_DevCon)** - See the love to feel the love
+<!-- SOFTWARE:END -->
 
 
 ### Connect
