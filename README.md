@@ -60,7 +60,7 @@
 
 <!-- SOFTWARE:START -->
 - 👀 **[Vision Detect](https://github.com/ZeekHoft/GDSC-project)** - To help vision impairment
-- 💋 **[Valentine Compatibility](https://github.com/ZeekHoft/Nov_DevCon)** - See the love to feel the love
+- 💋 **[Valentine Compatibility](https://github.com/ZeekHoft/Valentine-Compatibility)** - See the love to feel the love
 <!-- SOFTWARE:END -->
 
 
