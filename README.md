@@ -59,6 +59,7 @@
 <!-- GAMES:END -->
 
 <!-- SOFTWARE:START -->
+- 🔐 **[Garble](https://github.com/ZeekHoft/garble)** - Encrypt your files for protection
 - 👀 **[Vision Detect](https://github.com/ZeekHoft/GDSC-project)** - To help vision impairment
 - 💋 **[Valentine Compatibility](https://github.com/ZeekHoft/Valentine-Compatibility)** - See the love to feel the love
 <!-- SOFTWARE:END -->
