@@ -42,7 +42,7 @@
 ## Finished project
 <!-- WEBSITES:START -->
 - 🙋 **[Portfolio](https://vince-work-portfolio.vercel.app)** - Cooking has never been made easier, AI recipe recommendation
-- 📈 **[Lead Gen Website](https://lead-gen-website-gamma.vercel.app)** - Promotional website for business
+- 📈 **[Lead Gen Website](https://project-leads-hub.vercel.app)** - Promotional website for business
 - 🙈 **[Deception Detector](https://the-deception-detector.vercel.app/home)** - Unmask fake news online
 <!-- WEBSITES:END -->
 
